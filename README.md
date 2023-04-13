@@ -1,1 +1,37 @@
 # Tech-Blog
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+## Description
+
+ 
+## Table of contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributions](#contributions)
+  - [Tests](#tests)
+  - [License](#license)
+  - [Questions](#questions)
+  
+## Installation
+This is a fully deployed application hosted on Heroku. No installation needed. Simply visit the application at the deployed URL.
+
+## Usage
+ 
+
+![alt text](./public/images/Screenshot1.png)
+![alt text](./public/images/Screenshot2.png)
+
+## Contributions 
+[Sara Schroeder](https://github.com/saraschroeder);
+
+## License 
+MIT License
+
+(https://opensource.org/licenses/MIT)
+
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+## Questions
+If you have questions on this project you can find me on Github at [Sara Schroeder](https://github.com/saraschroeder);
+
+or please feel free to email one of us at: sara.schroeder00@gmail.com.
