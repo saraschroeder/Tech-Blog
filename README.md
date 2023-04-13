@@ -3,6 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
 
+The Tech Blog is a project using the MVC structure, routes, SQL, and Handlebars. With this application, users can view, edit, leave comments, login, and register. 
  
 ## Table of contents
   - [Installation](#installation)
@@ -17,9 +18,8 @@ This is a fully deployed application hosted on Heroku. No installation needed. S
 
 ## Usage
  
-
-![alt text](./public/images/Screenshot1.png)
-![alt text](./public/images/Screenshot2.png)
+![alt text]()
+![alt text]()
 
 ## Contributions 
 [Sara Schroeder](https://github.com/saraschroeder);
@@ -28,8 +28,6 @@ This is a fully deployed application hosted on Heroku. No installation needed. S
 MIT License
 
 (https://opensource.org/licenses/MIT)
-
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 ## Questions
 If you have questions on this project you can find me on Github at [Sara Schroeder](https://github.com/saraschroeder);
