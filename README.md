@@ -18,8 +18,8 @@ This is a fully deployed application hosted on Heroku. No installation needed. S
 
 ## Usage
  
-![alt text]()
-![alt text]()
+![alt text](./public/images/Screenshot1.png)
+![alt text](./public/images/Screenshot2.png)
 
 ## Contributions 
 [Sara Schroeder](https://github.com/saraschroeder);
